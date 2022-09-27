@@ -2,7 +2,7 @@
 
 ## modificación de prueba para fork
 
-### una modificacion
+### esto es la modificación del ejercicio de método de clonado 2
 
 ### otra modificacion
 
